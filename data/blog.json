@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Most Beautiful Place in the World",
+    "body": "This is my first post",
+    "image": "https://images.pexels.com/photos/12190795/pexels-photo-12190795.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "title": "Mysteries of Forest",
+    "body": "This is my first post",
+    "image": "https://images.pexels.com/photos/20700715/pexels-photo-20700715/free-photo-of-people-are-walking-through-an-archway-in-front-of-a-pyramid.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "title": "Interesting Places to visit in Japan, Tokyo",
+    "body": "This is my first post",
+    "image": "https://images.pexels.com/photos/15802347/pexels-photo-15802347/free-photo-of-back-view-of-a-couple-walking-in-an-alley-with-lanterns-in-a-japanese-city.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "title": "Cafe on the Shore of the Great Wall",
+    "body": "This is my first post",
+    "image": "https://images.pexels.com/photos/21365330/pexels-photo-21365330/free-photo-of-a-window-with-a-sign-that-says-can-be-the-way-to-the-heart.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
